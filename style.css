@@ -503,6 +503,10 @@ footer .follow i:hover{
     text-align: center;
 }
 
+#about-head div p{
+    font-size: 25px;
+}
+
 #about-vid{
     text-align: center;
 }
